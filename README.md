@@ -1,2 +1,5 @@
 # PYTHON-PROJECTS-REPO
-my personal pyhton projects to enhance my skills 
+My personal pyhton projects to enhance my skills.
+<br>
+Author - Aryan Pal
+
